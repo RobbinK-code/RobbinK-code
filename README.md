@@ -55,6 +55,6 @@ I am a software developer focused on building clean, efficient, and highly acces
 
 ## 🤝 Let's Connect!
 * **LinkedIn:** [linkedin.com/in/robbin-kimani-6973233b4/](https://www.linkedin.com/in/robbin-kimani-6973233b4/)
-* **Email:** *[Your Email Here]*
+* **Email:** *kimanirobbin@gmail.com*
 
 *“Building an inclusive, high-performance web, one script at a time.”*
