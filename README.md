@@ -11,13 +11,13 @@
 ---
 
 ## 🧠 Who I Am
-I’m a software developer focused on building **interactive, efficient, and highly accessible web applications**. By pairing an engineering core of **Python** and **JavaScript** with modern **AI-augmented workflows**, I design solutions that bridge complex backend logic with clean, dynamic UI experiences[cite: 2].
+I’m a software developer focused on building **interactive, efficient, and highly accessible web applications**. By pairing an engineering core of **Python** and **JavaScript** with modern **AI-augmented workflows**, I design solutions that bridge complex backend logic with clean, dynamic UI experiences.
 
 I specialize in:
 - Turning concepts into **functional, production-ready products**
 - Harmonizing frontend interactivity with robust **Python automation and backend logic**
-- Optimizing application workflows using advanced **Generative AI systems**[cite: 2, 3]
-- Advocating for **Universal Acceptance (UA)** to ensure the web works for everyone, globally[cite: 1]
+- Optimizing application workflows using advanced **Generative AI systems**
+- Advocating for **Universal Acceptance (UA)** to ensure the web works for everyone, globally
 
 📍 Kenya  
 🚀 Actively building, engineering, and expanding my stack every day  
@@ -37,7 +37,7 @@ I specialize in:
 ---
 
 ## 🏆 2026 Technical Milestones & Certifications
-* 🤖 **Generative AI Essentials for Software Developers** – Moringa School | *Mastered prompt engineering and LLM lifecycle integration into standard software stacks.*[cite: 2]
+* 🤖 **Generative AI Essentials for Software Developers** – Moringa School | *Mastered prompt engineering and LLM lifecycle integration into standard software stacks.*
 * 🌐 **Universal Acceptance Day 2026** – KeNIC / ICANN / UNESCO | *Certified in driving multi-lingual web standards, ensuring systems handle global scripts seamlessly.*[cite: 1]
 * ⚡ **The 2X Productivity Roadmap** – WUWOGKA Digital Hub | *Mastered AI-driven workflows and high-speed developer execution frameworks.*[cite: 3]
 
@@ -74,8 +74,8 @@ I specialize in:
 ---
 
 ### 🤖 Smart Universal Acceptance Validator (Upcoming / In-Progress)
-✔ Combines **Python** backend analytics with a sleek JavaScript UI to validate internationalized emails/domains[cite: 1].  
-✔ Implements custom **Generative AI diagnostics** to explain encoding errors in plain English[cite: 2].  
+✔ Combines **Python** backend analytics with a sleek JavaScript UI to validate internationalized emails/domains.  
+✔ Implements custom **Generative AI diagnostics** to explain encoding errors in plain English.  
 
 ---
 
@@ -107,14 +107,14 @@ I specialize in:
 
 - I don’t just follow tutorials — I **build complete, production-ready systems**
 - I balance **creative frontend design** with structured, automated backend solutions
-- I treat **AI tools as collaborative execution partners** to deliver code faster and more accurately[cite: 3]
-- I write code with **global accessibility and universal design** at its foundational level[cite: 1]
+- I treat **AI tools as collaborative execution partners** to deliver code faster and more accurately.
+- I write code with **global accessibility and universal design** at its foundational level.
 
 ---
 
 ## 🤝 Let’s Connect & Collaborate
 
-I am always open to discussing open-source collaborations, software engineering opportunities, or innovative AI-augmented workflows[cite: 2, 3]. Feel free to reach out through any of the channels below!
+I am always open to discussing open-source collaborations, software engineering opportunities, or innovative AI-augmented workflows. Feel free to reach out through any of the channels below!
 
 <p align="center">
   <a href="https://www.linkedin.com/in/robbin-kimani-6973233b4/">
@@ -142,10 +142,10 @@ I am always open to discussing open-source collaborations, software engineering 
 
 ## ⚡ Philosophy
 
-> “Consistency beats talent. I couple disciplined, daily coding habits with modern AI workflows to achieve elite developer output.”[cite: 3]
+> “Consistency beats talent. I couple disciplined, daily coding habits with modern AI workflows to achieve elite developer output.”
 
 ---
 
 <p align="center">
-  ⭐️ Follow my journey as I engineer scalable applications for an inclusive web![cite: 1]
+  ⭐️ Follow my journey as I engineer scalable applications for an inclusive web!
 </p>
