@@ -1,128 +1,60 @@
-<h1 align="center">Robbin Kimani</h1>
+# Hi there, I'm Robbin Kimani! 👋 (@RobbinK-code)
+### 🚀 Software Developer | AI-Augmented Engineer | Open-Web Advocate
 
-<p align="center">
-  <b>Frontend Developer • JavaScript Specialist • Problem Solver</b>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Real+World+Applications;JavaScript+%7C+APIs+%7C+DOM;Future+Frontend+Engineer;Always+Learning&center=true&width=500&height=45">
-</p>
+I am a software developer focused on building clean, efficient, and highly accessible web applications. By pairing a foundational stack of **Python** and **JavaScript** with modern **Generative AI workflows**, I build software that bridges the gap between high-performance code and universal user accessibility.
 
 ---
 
-## 🧠 Who I Am
-I’m a frontend developer focused on building **interactive, user-friendly web applications** using modern JavaScript.
+## 🛠️ My Tech Stack
 
-I specialize in:
-- Turning ideas into **functional products**
-- Working with **APIs and asynchronous data**
-- Creating **clean, dynamic UI experiences**
-
-📍 Kenya  
-🚀 Actively building and improving every day  
+| Category | Technologies |
+| :--- | :--- |
+| **Languages** | ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Tools & AI** | ![Git](https://img.shields.io/badge/-Git-F05033?style=flat-square&logo=git&logoColor=white) ![OpenAI](https://img.shields.io/badge/-GenAI%20Workflows-412991?style=flat-square&logo=openai&logoColor=white) |
 
 ---
 
-## ⚙️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,nodejs,git,github,vscode" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=jest" />
-</p>
+## ⚡ 2026 Focus & Core Philosophy
+* 🤖 **AI-Augmented Execution:** I treat AI as a collaborative pair-programmer, accelerating debugging, unit testing, and architectural design.
+* 🌐 **Universal Acceptance (UA):** I advocate for an inclusive internet where applications seamlessly process all global domain names and scripts.
+* 📈 **High-Velocity Learning:** Continuously building, testing, and optimizing my workflows for peak performance.
 
 ---
 
-## 🚀 Featured Work
-
-### 📖 Wordly – Dictionary SPA
-🔗 https://github.com/RobbinK-code/SPA-Wordly  
-
-✔ Built a **Single Page Application** using external APIs  
-✔ Displays definitions, pronunciation, and synonyms  
-✔ Handles errors and missing data gracefully  
-✔ Dynamic DOM updates without page reload  
+## 🏆 Key Milestones & Credentials
+* 🎓 **Generative AI Essentials for Software Developers** – Moringa School (April 2026)
+* 🌐 **Universal Acceptance Day 2026 Certificate** – KeNIC / ICANN / UNESCO (May 2026)
+* ⚡ **The 2X Productivity Roadmap: AI Systems** – WUWOGKA Digital Hub (April 2026)
 
 ---
 
-### 🌦 Weather Alerts App
-🔗 https://github.com/RobbinK-code/course-3-module-4-external-apis-and-fetching-lab  
+## 📁 Featured Projects
 
-✔ Fetches real-time weather alerts  
-✔ Uses async/await for clean asynchronous flow  
-✔ Implements error handling and validation  
-✔ Updates UI dynamically based on API response  
+### 🛠️ [Project Name 1: e.g., Universal AI Validator]
+*A web utility built to ensure digital forms accept global, multilingual domain inputs while leveraging AI to explain validation anomalies.*
+* **Tech Stack:** Python, JavaScript, HTML, CSS, LLM API
+* **Key Feature:** Implements full EAI (Email Address Internationalization) checks alongside a smart AI assistant to guide global users.
 
----
-
-### 📚 Bookstore DOM Project
-
-✔ Dynamically renders book data  
-✔ Displays images, authors, and titles  
-✔ Built with pure JavaScript (no frameworks)  
+### 🐍 [Project Name 2: e.g., PyFlow AI Automation]
+*A lightweight Python automation tool designed to optimize local developer file-handling and repetitive script executions.*
+* **Tech Stack:** Python, Git
+* **Key Feature:** Integrates prompt-engineered scripts to auto-generate markdown documentation for local directory structures.
 
 ---
 
-## 📊 GitHub Analytics
+## 📊 My GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RobbinK-code&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=RobbinK-code&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobbinK-code&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RobbinK-code&show_icons=true&theme=dark&include_all_commits=true&count_private=true" alt="Robbin's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobbinK-code&layout=compact&theme=dark" alt="Top Languages" />
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+## 🤝 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/robbin-kimani-6973233b4/](https://www.linkedin.com/in/robbin-kimani-6973233b4/)
+* **Email:** *[Your Email Here]*
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- ⚛️ Learning **React & modern frontend frameworks**
-- 🌍 Building **real-world, production-ready apps**
-- 💼 Preparing for **Frontend Developer roles**
-- 🧠 Improving problem-solving and system thinking  
-
----
-
-## 📌 What Makes Me Different
-
-- I don’t just follow tutorials — I **build complete projects**
-- I focus on **real-world functionality**
-- I write code with **clarity and structure**
-- I actively test and debug like a real developer  
-
----
-
-## 🤝 Let’s Connect
-
-<p align="center">
-  <a href="https://github.com/RobbinK-code">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
-  </a>
-</p>
-
----
-
-## ⚡ Philosophy
-
-> “Consistency beats talent. I show up, build, and improve every day.”
-
----
-
-<p align="center">
-  ⭐️ Follow my journey as I grow into a professional developer
-</p>
+*“Building an inclusive, high-performance web, one script at a time.”*
