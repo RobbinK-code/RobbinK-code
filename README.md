@@ -37,9 +37,9 @@ I specialize in:
 ---
 
 ## 🏆 2026 Technical Milestones & Certifications
-* 🤖 **Generative AI Essentials for Software Developers** – Moringa School | *Mastered prompt engineering and LLM lifecycle integration into standard software stacks.*
-* 🌐 **Universal Acceptance Day 2026** – KeNIC / ICANN / UNESCO | *Certified in driving multi-lingual web standards, ensuring systems handle global scripts seamlessly.*[cite: 1]
-* ⚡ **The 2X Productivity Roadmap** – WUWOGKA Digital Hub | *Mastered AI-driven workflows and high-speed developer execution frameworks.*[cite: 3]
+* 🤖 **Generative AI Essentials for Software Developers** – Moringa School | *Mastered prompt engineering and LLM lifecycle integration into standard software stacks.*[https://drive.google.com/file/d/1XqvfY_jay8-8GHsQJajmuZqXLVYkZo7P/view?usp=drive_link]*
+* 🌐 **Universal Acceptance Day 2026** – KeNIC / ICANN / UNESCO | *Certified in driving multi-lingual web standards, ensuring systems handle global scripts seamlessly.*[https://drive.google.com/file/d/1mRY89xzAzgYeU3Q0QzIK30_35vYHVTXP/view?usp=drive_link]*
+* ⚡ **The 2X Productivity Roadmap** – WUWOGKA Digital Hub | *Mastered AI-driven workflows and high-speed developer execution frameworks.*[https://drive.google.com/file/d/1eD2TTkjIOmNF-NHGCDQh82cAN3sPECAe/view?usp=drive_link]*
 
 ---
 
