@@ -1,49 +1,79 @@
-# Robbin Kimani
+<div align="center">
 
-**Full-Stack Software Developer**
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=26&pause=1000&color=1E90FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Robbin+Kimani;Full-Stack+Software+Developer;React+%7C+Flask+%7C+JavaScript" alt="Typing SVG" />
 
-![Skills](https://skillicons.dev/icons?i=js,python,html,css,nodejs,git,github,vscode,react)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robbin-kimani-6973233b4/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimanirobbin@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobbinK-code)
 
----
-
-## About
-
-I'm a software developer based in Kenya, building full-stack web applications with React on the frontend and Python/Flask on the backend. I'm currently completing an intensive software engineering program at Moringa School, where I've worked on projects ranging from REST APIs to React admin dashboards with test coverage.
-
-I'm also certified in Universal Acceptance (UA) standards, which cover building web applications that correctly support multilingual scripts and internationalized domains/emails.
-
-📍 Kenya
+</div>
 
 ---
 
-## Featured Projects
+### 👋 About Me
 
-### 🧾 [Coffee R Us — Admin Portal](https://github.com/RobbinK-code/react-based-personal-project-showcase)
-A React 19 admin portal for an e-commerce inventory system.
-- Client-side routing with React Router, full CRUD operations, and a simulated backend via JSON Server
-- Custom `useProducts` hook for data-fetching logic and real-time search
-- Component test suite using Vitest and React Testing Library
-
-### 🗃 [Flask Inventory Management System](https://github.com/RobbinK-code/Flask-IMS)
-A Python Flask REST API for managing inventory.
-- Full CRUD functionality plus integration with the OpenFoodFacts API for external product lookup
-- Includes a CLI for interacting with the service directly
-- Unit tested with pytest
-
-### 📖 [Wordly — Dictionary SPA](https://github.com/RobbinK-code/SPA-Wordly)
-A single-page dictionary app in vanilla JavaScript.
-- Queries a public REST API for definitions and phonetics, updating the DOM without page reloads
-- Handles missing API fields and network errors gracefully
-- [Live demo](https://robbink-code.github.io/SPA-Wordly)
-
-### 🈺 [Akan Name Generator](https://github.com/RobbinK-code/Akan-name-generator)
-A web app that calculates a traditional Akan day-name from a person's date of birth.
-- Implements the day-of-week calculation logic in JavaScript
-- [Live demo](https://robbink-code.github.io/Akan-name-generator)
+- 🎓 Currently completing an intensive Software Engineering program at **Moringa School**
+- 🛠 Building full-stack apps with **React** on the frontend and **Python/Flask** on the backend
+- 🌍 Certified in **Universal Acceptance (UA)** standards — building web apps that support multilingual scripts and internationalized domains/emails
+- ⚡ Using AI tools as part of my day-to-day dev workflow, without letting them replace understanding the fundamentals
+- 📍 Based in Kenya
 
 ---
 
-## Certifications
+### 🧰 Tech Stack
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" alt="Python" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" title="Node.js" alt="Node.js" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" title="Git" alt="Git" width="45" height="45"/>&nbsp;
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="45" height="45"/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🧾 [Coffee R Us — Admin Portal](https://github.com/RobbinK-code/react-based-personal-project-showcase)**
+React 19 admin portal for an e-commerce inventory system — client-side routing, full CRUD, custom hooks, and a Vitest + React Testing Library test suite.
+
+</td>
+<td width="50%" valign="top">
+
+**🗃 [Flask Inventory Management System](https://github.com/RobbinK-code/Flask-IMS)**
+Python Flask REST API with full CRUD, external API integration (OpenFoodFacts), a CLI tool, and pytest coverage.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**📖 [Wordly — Dictionary SPA](https://github.com/RobbinK-code/SPA-Wordly)**
+Vanilla JavaScript SPA that queries a REST API for definitions and phonetics, with graceful error handling. [Live demo →](https://robbink-code.github.io/SPA-Wordly)
+
+</td>
+<td width="50%" valign="top">
+
+**🈺 [Akan Name Generator](https://github.com/RobbinK-code/Akan-name-generator)**
+Calculates a traditional Akan day-name from a birthdate, implementing the day-of-week logic in JavaScript. [Live demo →](https://robbink-code.github.io/Akan-name-generator)
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📜 Certifications
 
 - **Artificial Intelligence Training** — ICT Authority, Kenya & Pathways Technologies (Jul 2026)
 - **Generative AI Essentials for Software Developers** — Moringa School (Apr 2026)
@@ -52,15 +82,25 @@ A web app that calculates a traditional Akan day-name from a person's date of bi
 
 ---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RobbinK-code&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RobbinK-code&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img src="https://github-stats-extended.vercel.app/api?username=RobbinK-code&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RobbinK-code&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RobbinK-code&theme=tokyonight&no-frame=true&column=4&margin-w=10" alt="Trophies"/>
+
+</div>
 
 ---
 
-## Let's Connect
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robbin-kimani-6973233b4/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kimanirobbin@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RobbinK-code)
+*Thanks for stopping by — feel free to explore my repos or reach out!*
+
+</div>
